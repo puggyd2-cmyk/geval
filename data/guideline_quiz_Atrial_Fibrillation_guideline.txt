@@ -1,0 +1,210 @@
+Atrial_Fibrillation_guideline – RAG MCQ
+Track: guideline_anchored
+Sources: Atrial_Fibrillation_guideline.pdf
+Q1 (medium)
+68세 남자, 비심장 수술 후 즉시 새로운 심방세동(POAF)이 발생하였다. 수술 후 24시간 내에 발생했으며 현재는 혈역학적으로 안정적이고, 수술 관련 출혈 위험은 해소된 상태이다. 과거력: 고혈압, 제2형 당뇨. 약물알레르기 없음. 가장 적절한 약물 처방은 무엇인가?
+
+A. 장기 경구 항응고제 시작 — 환자의 혈전색전증 위험인자에 따라 결정
+B. 항응고제 투여하지 않고 경과 관찰만 시행
+C. 입원 중 단기간(48시간) 정맥 항응고제만 투여 후 중단
+D. 즉시 전기적 심율동전환 시행 후 항응고제 불필요
+E. 아스피린 등 항혈소판제만 투여
+Q2 (medium)
+65세 남성, 비판막성 심방세동으로 apixaban 5 mg 1일 2회 복용 중이다. 최근 발작성 경련으로 carbamazepine 시작을 권유받았다. 신기능과 혈액검사는 정상이며 약물 알레르기 없음. 가장 적절한 처방 결정은 무엇인가?
+
+A. Carbamazepine과의 병용을 피한다(가능하면 대체 약물 사용)
+B. Apixaban 용량을 즉시 절반으로 감량한다
+C. Apixaban을 중단하고 와파린으로 전환한 뒤 INR을 모니터링한다
+D. Apixaban을 동일 용량으로 유지하고 carbamazepine을 시작한다
+E. Apixaban을 중단한다(항응고 치료 중단)
+Q3 (medium)
+78세 남성, 지속성 심방세동(persistent AF)으로 외래 추적 중입니다. 환자는 심박수 조절이 잘 되지 않아 여러 약물을 최대내약용량까지 병용 치료했으나 심박수 조절에 실패했습니다. 환자는 전도절제(atriaoventricular node ablation) 및 심박조율기 삽입을 받을 수 없는 상태입니다. 가장 적절한 약물 치료는 무엇인가?
+
+A. Amiodarone 시작
+B. 두 가지 AAD 병용요법 시작
+C. Sotalol 시작
+D. atrioventricular node ablation 및 pacemaker 삽입 실시
+E. 약물치료 중단 후 경과 관찰
+Q4 (medium)
+65세 여성 환자가 반복적인 심계항진으로 내원하였고, 표준 12유도 심전도에서 atrial flutter가 확인되었다. 병력은 고혈압과 제2형 당뇨병이며, 약물알레르기는 없다. 뇌졸중 예방을 위한 가장 적절한 약물 치료는 무엇인가?
+
+A. 경구 항응고제 시작
+B. 아스피린(항혈소판) 단독 투여
+C. 항혈전 치료 없이 경과 관찰
+D. 심박수 조절 약물만 투여
+E. 비허가(off-label) 약물 즉시 투여 (환자 동의 없이)
+Q5 (medium)
+62세 남성, 최근 심전도에서 새로운 비류발성(새로 진단된) 심방세동이 확인되었습니다. 병력으로 고혈압만 있으며 다른 출혈 병력은 없습니다. 환자는 매일 약 80 g의 알코올을 섭취하는 다량 음주자입니다. 신기능과 혈액검사는 정상이며 약물 알레르기는 없습니다. 이 환자에게 가장 적절한 약물 치료는 무엇인가?
+
+[병력] 고혈압 [음주력] 매일 약 80 g의 알코올(지속적 다량 음주) [약물알레르기] 없음 [활력징후/검사] 정상
+
+① 항혈소판제 단독(aspirin 또는 clopidogrel) ② 경구항응고제(oral anticoagulation) 시작 ③ 출혈 위험 때문에 항응고제 금기 — 아무 항응고제도 시작하지 않음 ④ 정맥내 헤파린만 단기간 투여 ⑤ 항부정맥제만 시작(항응고제 불필요)
+
+A. 항혈소판제 단독(aspirin 또는 clopidogrel)
+B. 경구항응고제(oral anticoagulation) 시작
+C. 출혈 위험 때문에 항응고제 금기 — 아무 항응고제도 시작하지 않음
+D. 정맥내 헤파린만 단기간 투여
+E. 항부정맥제만 시작(항응고제 불필요)
+Q6 (easy)
+귀하는 ESC 가이드라인 작업반의 위원입니다. 특정 주제와 관련된 이해관계를 신고한 상태입니다. 다음 중 작업반 위원으로서 가장 적절한 행동은 무엇인가?
+
+(상황) 위원회는 모든 승인된 권고안을 투표에 부치며, 투표 시 합의 기준을 적용합니다.
+
+A. 관련 권고안에 대한 투표에서 기권한다.
+B. 이해관계를 공개한 후 평소대로 투표에 참여한다.
+C. 작업반에서 즉시 사임한다.
+D. 모든 주제에 대해 전부 기권한다.
+E. 해당 주제에 대해 단독으로 최종 결정을 내린다.
+Q7 (medium)
+68세 남성, 최근 발생한 빈맥성 심방세동으로 응급실 내원하였다. 환자는 혈역학적으로 안정적이며 흉통이나 좌심부전 증상은 없다.
+
+병력: 고혈압(약물 복용 중), 심부전 병력 없음 알레르기: 없음
+
+활력징후: 혈압 128/76 mmHg, 심박수 142회/분, 호흡수 18회/분, 산소포화도 97% RA 검사: SCr 1.0 mg/dL
+
+가장 적절한 초기 정맥 약물 및 용량은?
+
+A. Diltiazem 0.25 mg/kg IV bolus over 5 min, then infusion 5–15 mg/h
+B. Digoxin 0.5 mg IV bolus
+C. Amiodarone 300 mg IV over 30–60 min
+D. Ibutilide 1 mg IV over 10 min
+E. Vernakalant 3 mg/kg IV over 10 min
+Q8 (medium)
+68세 남성, 지속성 심방세동(AF) 및 심부전으로 외래 추적 관찰 중이다.
+
+[병력] 고혈압, 제2형 당뇨병 [심장초음파] LVEF 45% [활력징후] 혈압 128/76 mmHg, 심박수 78회/분 [복용약물] furosemide 40 mg PRN(부종 시), metformin 1000 mg 1일 2회 [약물알레르기] 없음
+
+이 환자에서 심부전 입원 및 심혈관 사망 위험을 감소시키기 위해 권고되는 약물 선택은 무엇인가?
+
+A. Sodium-glucose cotransporter-2 inhibitors 시작
+B. 이뇨제(부종 경감 목적) 증량
+C. 경구항응고제(DOAC) 시작
+D. 강화된 혈당강하제 요법으로 당조절 강화
+E. 생활습관 교정만 시행하고 약물 변경 없음
+Q9 (medium)
+78세 여성 환자가 최근 심방세동(AF)로 진단되었습니다. 경미한 인지저하가 있고 다수의 약물을 복용 중이며(복약관리 어려움), 경제적 여건이 넉넉지 않아 외래 접근성이 제한적입니다. 가족이 돌봄을 도와주고 있으나 환자와 가족은 항응고치료의 이득과 위험을 이해하지 못해 치료 결정을 내리기 어려워합니다. 이 환자에 대해 임상지침에 따라 가장 적절한 초기 관리 전략은 무엇인가?
+
+A. 환자, 가족, 돌봄자 및 의료진을 대상으로 교육을 제공하여 공유 의사결정을 최적화한다
+B. 의사가 단독으로 치료방침을 결정하고 환자에게 결과만 통보한다
+C. 비용 문제를 이유로 치료 접근을 제한하고 보수적 치료만 권유한다
+D. 시간 지향 분류에 따라 고정된 표준 프로토콜만 적용한다
+E. 다학제 접근을 배제하고 단일 전문의에게만 관리 책임을 위임한다
+Q10 (medium)
+75세 남자 환자가 처음으로 심방세동(AF) 진단을 받았고 치료 적응증이 있어 항응고제(OAC)가 권고됩니다. 그러나 의원의 다수 임상의들이 최신 지침을 잘 모르고 있어 실제로 적절한 OAC 처방률이 낮습니다. 지역 의료기관이 장기적으로 적절한 OAC 처방을 가장 효과적으로 늘리려면 어떤 전략이 가장 적절한가?
+
+[병력] 고혈압, 당뇨 [약물알레르기] 없음 [현황] 여러 의사가 AF 지침에 대한 지식 격차로 OAC 처방을 회피함
+
+A. 단회 집합 교육(워크숍)만 시행한다
+B. 표적 교육과 함께 활성적 피드백 및 임상결정지원 도구를 도입한다
+C. 진료실에 지침 원문 인쇄물을 비치한다
+D. 심전문가의 1회 자문(전문가 한 번 초빙)만 의뢰한다
+E. 환자 대상 교육만 강화한다
+Q1
+정답 해설
+
+Answer: A. 장기 경구 항응고제 시작 — 환자의 혈전색전증 위험인자에 따라 결정
+
+Rationale: 지침은 수술 후 발생한 POAF에 대해 급성 출혈 위험이 해소된 이후에는 환자의 혈전색전증 위험인자에 따라 장기 경구항응고제(OAC)를 고려할 것을 권고한다. 또한 POAF는 수술 직후에 발생하는 흔한 합병증이며 장기 항응고 고려가 권장된다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.50 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p50|c4 | after acute bleeding risk has settled, long-term OAC should be considered in patients with POAF according to their thromboembolic risk factors
+Atrial_Fibrillation_guideline.pdf p.50 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p50|c1 | Post-operative AF (POAF), defined as new- onset AF in the immediate post-operative period, is a common complication
+Q2
+정답 해설
+
+Answer: A. Carbamazepine과의 병용을 피한다(가능하면 대체 약물 사용)
+
+Rationale: 지침은 Carbamazepine과 같은 약물과의 병용을 피할 것을 권고한다. 만약 상호작용 약물을 사용해야 하는 상황이면 DOAC의 용량 조정(예: apixaban 감량)을 고려하도록 하고 있다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.25 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p25|c3 | Carbamazepine Phenytoin Phenobarbital Rifampicin Ritonavir Avoid where possible
+Atrial_Fibrillation_guideline.pdf p.25 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p25|c3 | Avoid or reduce apixaban dose if another interacting drug therapy
+Q3
+정답 해설
+
+Answer: A. Amiodarone 시작
+
+Rationale: 지침은 심박수 조절이 최대내약용량의 병용치료로도 되지 않거나 환자가 전도절제·심박조율 적응이 아닌 경우에 amiodarone을 마지막 옵션으로 보류한다고 권고합니다. 또한 여러 AAD의 병용은 권장되지 않으며, sotalol은 사망률 신호가 증가한 약물로 주의가 필요합니다. 따라서 이 환자에서는 amiodarone을 마지막 옵션으로 고려하는 것이 지침상 적절합니다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.35 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p35|c1 | amiodarone is reserved as a last option
+Atrial_Fibrillation_guideline.pdf p.40 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p40|c2 | Combinations of AADs are not recommended.
+Atrial_Fibrillation_guideline.pdf p.40 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p40|c2 | increased mortality signals for sotalol574,579,580 and amiodarone.581
+Q4
+정답 해설
+
+Answer: A. 경구 항응고제 시작
+
+Rationale: 지침은 atrial flutter에서 혈전색전증 위험이 높은 환자에게 뇌졸중 및 혈전색전증 예방을 위해 경구 항응고제를 권고한다. 환자는 고혈압 및 당뇨병으로 위험이 높다고 판단되어 경구 항응고제 시작이 적절하다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.53 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p53|c6 | Oral anticoagulation is recommended in patients with atrial flutter at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.
+Atrial_Fibrillation_guideline.pdf p.59 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p59|c2 | Oral anticoagulants: recommended for all eligible patients, except those at low risk of incident stroke or thromboembolism
+Q5
+정답 해설
+
+Answer: B. 경구항응고제(oral anticoagulation) 시작
+
+Rationale: 지침은 저위험 환자를 제외하고 적격 환자에게 경구항응고제 제공을 기본 접근법으로 제시한다. 알코올 과음은 OAC 사용 중 출혈 위험 증가와 연관되지만, 그 자체로 항응고제 금기를 의미하지 않으므로 적절한 치료는 경구항응고제 시작(동시에 음주 감량 또는 금주 권고 포함)이다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.23 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p23|c2 | The default approach should therefore be to provide OAC to all eligible patients
+Atrial_Fibrillation_guideline.pdf p.23 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p23|c1 | alcohol excess is associated with a greater risk of bleeding,
+Q6
+정답 해설
+
+Answer: A. 관련 권고안에 대한 투표에서 기권한다.
+
+Rationale: 가이드라인 문서에 따르면 특정 주제에 대해 이해관계를 신고한 작업반 구성원은 관련 권고안에 대해 투표를 유보하도록 요청받는다. 따라서 관련 권고안에 대한 투표에서 기권하는 것이 적절하다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.2 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p2|c1 | Members of the task force with declared interests on specific topics were asked to abstain from voting on related recommendations.
+Q7
+정답 해설
+
+Answer: A. Diltiazem 0.25 mg/kg IV bolus over 5 min, then infusion 5–15 mg/h
+
+Rationale: 가이드라인은 급성 심방세동의 정맥성 속도조절을 위한 초기 용량으로 Diltiazem 0.25 mg/kg IV bolus over 5 min을 제시한다. 따라서 A가 가장 적절하다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.35 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p35|c6 | Diltiazem 0.25 mg/kg i.v. bolus over 5 min
+Q8
+정답 해설
+
+Answer: A. Sodium-glucose cotransporter-2 inhibitors 시작
+
+Rationale: 지침은 HF와 AF가 동반된 환자에서 좌심실 박출률에 관계없이 SGLT2 억제제 사용을 권고하여 심부전 입원 및 심혈관 사망 위험을 감소시킨다고 명시하고 있다. 이뇨제는 울혈 완화 권고는 있으나(han) 심부전 입원·사망 감소에 대한 전반적 권고와는 구분된다. 경구항응고제는 색전증 예방을 위한 치료이며 심부전 입원·사망 감소를 위한 1차 권고는 아니다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.61 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p61|c3 | Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF
+Atrial_Fibrillation_guideline.pdf p.15 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p15|c1 | Diuretics for congestion
+Q9
+정답 해설
+
+Answer: A. 환자, 가족, 돌봄자 및 의료진을 대상으로 교육을 제공하여 공유 의사결정을 최적화한다
+
+Rationale: 지침은 환자·가족·돌봄자·의료진을 대상으로 한 교육 제공을 권고하며(shared decision-making 최적화), 환자 중심의 공유 의사결정이 관리 선택을 용이하게 한다고 명시되어 있다. 따라서 환자와 가족을 포함한 교육과 공유의사결정이 우선이다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.14 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p14|c6 | Education directed to patients, family members, caregivers, and healthcare professionals is recommended
+Atrial_Fibrillation_guideline.pdf p.3 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p3|c6 | A patient-centred, shared decision-making approach will facilitate the choice of management
+Q10
+정답 해설
+
+Answer: B. 표적 교육과 함께 활성적 피드백 및 임상결정지원 도구를 도입한다
+
+Rationale: 지침은 표적 교육이 OAC 사용의 적절성을 높일 수 있음을 언급하나, 교육만으로는 지속적 행동 변화를 만들기 어려워 추가 도구가 필요하다고 제시한다. 따라서 교육에 활성적 피드백 및 임상결정지원 등 보조 도구를 결합하는 것이 장기적으로 처방률을 개선할 가능성이 가장 높다.
+
+Evidence: Citations (short quotes):
+
+Atrial_Fibrillation_guideline.pdf p.14 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p14|c1 | real-world adherence to clinical practice guidelines for AF across six ESC countries was poor
+Atrial_Fibrillation_guideline.pdf p.14 | e453706bf86f|Atrial_Fibrillation_guideline.pdf|p14|c1 | Other tools may be needed, such as active feedback,103 clinical decision support tools,105 expert consultation,106 or e-Health learning.107

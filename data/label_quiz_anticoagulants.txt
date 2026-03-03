@@ -1,0 +1,94 @@
+항응고제 라벨 기반 자기진단 문제집
+Track: label_anchored
+Candidate drugs: edoxaban tosylate, dabigatran etexilate, rivaroxaban, warfarin, apixaban
+q1 (drug_match, easy)
+기계적 인공 심장판막을 가진 성인 환자에서 사용이 금기(단호히 금지)로 명시된 약물은?
+
+A. edoxaban tosylate
+B. dabigatran etexilate
+C. rivaroxaban
+D. warfarin
+E. apixaban
+q2 (drug_match, easy)
+CrCL(크레아티닌 청소율) > 95 mL/min인 비판막성 심방세동(NVAF) 환자에서 라벨에 사용을 금지한다고 명시된 약물은?
+
+A. edoxaban tosylate
+B. dabigatran etexilate
+C. rivaroxaban
+D. warfarin
+E. apixaban
+q3 (dose, medium)
+비판막성 심방세동 환자에서 초기 권장용량이 60 mg 1회 매일이고 신기능이 CrCL 15–50 mL/min일 때 30 mg으로 감량하도록 라벨에 명시된 약물은?
+
+A. edoxaban tosylate
+B. dabigatran etexilate
+C. rivaroxaban
+D. warfarin
+E. apixaban
+q4 (interaction, medium)
+응급 수술 또는 긴급 시술로 인해 다급히 약물 효과를 역전시켜야 할 때 라벨에서 특정 역전제 idarucizumab 사용을 권고하는 약물은?
+
+A. edoxaban tosylate
+B. dabigatran etexilate
+C. rivaroxaban
+D. warfarin
+E. apixaban
+q5 (drug_match, easy)
+초기 용량 선택 시 CYP2C9 및 VKORC1 유전자형 정보를 고려하여 초기용량 결정에 도움을 줄 수 있다고 라벨에 명시된 약물은?
+
+A. edoxaban tosylate
+B. dabigatran etexilate
+C. rivaroxaban
+D. warfarin
+E. apixaban
+q1
+정답 해설
+
+Answer: B. dabigatran etexilate
+
+Rationale: 라벨의 경고문에 dabigatran은 모든 기계적 인공판막 환자에서 금기라고 명시되어 있어 단답 가능.
+
+Evidence:
+
+dabigatran etexilate | warnings_and_cautions | 20260206 | Therefore, the use of dabigatran is contraindicated in all patients with mechanical prosthetic valves [see Contraindications ( 4 )].
+q2
+정답 해설
+
+Answer: A. edoxaban tosylate
+
+Rationale: edoxaban(SAVAYSA) 라벨의 boxed warning과 적응증 제한에 CrCL >95 mL/min인 NVAF 환자에서는 사용하지 말라고 명시되어 있음.
+
+Evidence:
+
+edoxaban tosylate | boxed_warning | 20250710 | SAVAYSA should not be used in patients with CrCL > 95 mL/min.
+q3
+정답 해설
+
+Answer: A. edoxaban tosylate
+
+Rationale: 라벨의 Dosage 항목에서 NVAF에 대해 60 mg 하루 1회 권장하고 CrCL 15–50 mL/min에서는 30 mg으로 감량하라고 구체적으로 적시.
+
+Evidence:
+
+edoxaban tosylate | dosage_and_administration | 20250710 | The recommended dose is 60 mg once daily in patients with CrCL >50 to ≤ 95 mL/min.
+edoxaban tosylate | dosage_and_administration | 20250710 | Reduce dose to 30 mg once daily in patients with creatinine clearance 15 to 50 mL/min
+q4
+정답 해설
+
+Answer: B. dabigatran etexilate
+
+Rationale: dabigatran 라벨은 응급 수술/긴급 시술 시 dabigatran 효과를 역전하기 위한 특정 역전제로 idarucizumab 사용을 권고한다고 명시함.
+
+Evidence:
+
+dabigatran etexilate | dosage_and_administration | 20260206 | Use a specific reversal agent (idarucizumab) in case of emergency surgery or urgent procedures
+q5
+정답 해설
+
+Answer: D. warfarin
+
+Rationale: Warfarin 라벨은 CYP2C9 및 VKORC1 유전자형이 알려져 있으면 초기 용량 선택에 참고할 수 있다고 명확히 기술되어 있음.
+
+Evidence:
+
+warfarin | dosage_and_administration | 20260205 | If the patient’s CYP2C9 and VKORC1 genotypes are known, consider these ranges in choosing the initial dose.

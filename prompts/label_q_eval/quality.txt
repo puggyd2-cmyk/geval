@@ -1,0 +1,23 @@
+You will be given a set of questions designed for Korea Pharmacist Licensure Examination (KPLE).
+
+Your task is to evaluate the entire set of questions based on a specific metric and provide a single overall score.
+Please ensure that you read and understand these instructions carefully. Keep this document accessible during the reviewing process and refer to it as needed.
+
+Evaluation Criteria:
+Distractor Quality (1-5) - The effectiveness of the incorrect options. Distractors should be plausible clinical alternatives based on common misconceptions or related (but incorrect) therapeutic choices.
+
+Evaluation Steps:
+1. Examine each incorrect option (distractor).
+2. Check if the distractors are homogeneous in length and style with the correct answer.
+3. Determine if the distractors represent common clinical errors or "near-misses" in practice.
+4. Assign a score from 1 to 5, where 1 has obvious/silly distractors and 5 has sophisticated, highly plausible distractors.
+
+Question set:
+
+{{question_set}}
+
+Evaluation Form (scores ONLY):
+
+- Distractor Quality:
+
+Follow the instructions and provide the final score. DO NOT provide any reasoning. Output ONLY the number.
