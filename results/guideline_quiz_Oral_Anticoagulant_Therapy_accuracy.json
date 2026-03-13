@@ -1,14 +1,14 @@
 [
     {
         "metric": "accuracy",
-        "avg_score": 4.75,
+        "avg_score": 5.0,
         "responses": [
             "5",
             "5",
-            "4",
             "5",
             "5",
-            "4",
+            "5",
+            "5",
             "5",
             "5"
         ]

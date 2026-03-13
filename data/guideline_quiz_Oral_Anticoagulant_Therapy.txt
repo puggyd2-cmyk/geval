@@ -1,199 +1,232 @@
 Oral_Anticoagulant_Therapy – RAG MCQ
 Track: guideline_anchored
 Sources: Oral_Anticoagulant_Therapy.pdf
+
 Q1 (medium)
-78세 여성 환자가 비판막성 심방세동으로 항응고 치료가 권고되어 내원하였다. 환자는 최근 검사에서 creatinine clearance가 28 mL/min으로 측정되었다(신기능 저하). 약물 알레르기 없음. 다음 중 이 환자에게 가장 적절한 약물 선택/투여지침은 무엇인가?
+78세 남성, 심방세동으로 외래 방문하였습니다. 혈역학적 안정 상태입니다.
 
-A. Dabigatran etexilate 150 mg을 하루 2회 투여 시작
-B. 신기능(크레아티닌 청소율) 28 mL/min이므로 dabigatran etexilate를 사용하지 않음(투여 금지)
-C. Dabigatran etexilate 투여는 가능하나 용량을 임의로 반으로 줄여 투여한다
-D. Dabigatran etexilate 150 mg을 단회 투여 후 aPTT 및 신기능을 관찰한다
-E. Dabigatran etexilate 투여를 시작하되, 치료 중에는 aPTT만 정기적으로 측정하면 된다
+[병력] 고혈압
+
+[검사 및 약력] Serum creatinine로 계산된 creatinine clearance 25 mL/min 알레르기: 없음 현재 항응고제 없음
+
+이 환자에게 가장 적절한 약물 처방은 무엇인가?
+
+A. Dabigatran 150 mg을 하루 두 번 투여 시작한다.
+B. 신기능이 심하게 저하되어 있으므로 dabigatran etexilate 투여를 피한다.
+C. Dabigatran 220 mg을 하루 1회 투여 시작한다.
+D. Dabigatran 150 mg BID로 시작하되 aPTT만 추적 관찰한다.
+E. 크레아티닌 클리어런스가 회복될 때까지 단회 150 mg 투여한다.
+
 Q2 (medium)
-65세 남성이 만성 항응고 치료로 warfarin을 복용 중입니다. 지난 6개월 동안 용량이 안정되어 INR은 최근 2.6으로 목표범위 내에 있었습니다. 최근 다른 진료과에서 cholestyramine을 새로 처방받았고, 처방한 의사는 대체 가능한 비상호작용 약물이 없는 상태라고 설명했습니다. 이 상황에서 가장 적절한 관리 방침은 무엇인가?
+68세 여성, 수개월 동안 warfarin으로 항응고 치료 중이며 최근 INR이 안정적으로 2.5입니다. 환자는 피로를 개선하려고 ginseng 보충제를 복용하려고 합니다. 가장 적절한 처방상 조치는 무엇인가?
 
-A. Warfarin을 즉시 중단하고 항응고 치료를 중단한다
-B. 모니터링 빈도를 증가시키고 INR 결과에 따라 warfarin 용량을 조정한다
-C. 잠재적 상호작용을 우려하여 warfarin 용량을 선제적으로 증량한다
-D. 변경 없이 기존 warfarin 용량과 기존 모니터링 간격을 유지한다
-E. 환자에게 herb 또는 영양제 복용 중단을 권고한다
+[현재약물] Warfarin, INR 2.5(안정적)
+
+가장 적절한 선택은?
+
+A. 가능하면 ginseng 복용을 피하고 상호작용이 없는 대체제를 사용하도록 권유한다.
+B. warfarin 용량을 미리 증가시켜 상호작용에 대비한다.
+C. ginseng 복용을 허용하되 INR 검사를 4주마다 시행한다.
+D. 즉시 warfarin을 중단하고 보충제 복용을 허용한다.
+E. 보충제 복용 시작 후 INR 추적 없이 현 상태 유지한다.
+
 Q3 (medium)
-72세 남성이 심부정맥혈전증으로 rivaroxaban을 복용하던 중 1시간 전에 복용량을 과다 투여(복용량을 두 배로 복용)한 사실을 알고 왔다. 현재 상부 위장관 출혈로 토혈을 하였고 혈압 90/58 mmHg, 맥박 110회/분, Hb 8.2 g/dL로 확인되었다. 약물 알레르기 없음. 최근 복용한 약물: rivaroxaban(마지막 복용 1시간 전). 이 환자에 대한 가장 적절한 즉각적 약물적 처치는?
+68세 남성이 갑작스러운 호흡곤란으로 응급실 내원하였다. CT 폐동맥조영술에서 혈역학적으로 안정적인 폐색전증(PE)이 확인되었다. 과거력, 약물 알레르기, 신기능 검사 모두 특이사항 없음. 현재 경구 항응고제로 rivaroxaban 투여를 고려하고 있다. 가장 적절한 rivaroxaban 투여법은?
 
-A. 응급 혈액투석을 시행하여 rivaroxaban 제거 시도
-B. 활성탄(activated charcoal) 투여 후 rivaroxaban 중단, 필요 시 혈액제제 투여
-C. enoxaparin 투여로 항응고효과 역전 시도
-D. warfarin 투여로 항응고효과 역전 시도
-E. rivaroxaban 투여를 계속하며 경과 관찰
+A. 초기 3주간 15 mg을 하루 2회 투여 후 이후 20 mg을 하루 1회 투여
+B. 초기 3주간 20 mg을 하루 2회 투여
+C. 10 mg을 하루 1회 투여
+D. 5 mg을 하루 2회 투여
+E. 주사형 enoxaparin으로만 치료 시작
+
 Q4 (medium)
-75세 남성이 dabigatran etexilate 150 mg을 하루 두 번 복용 중이며 심박수 조절을 위해 verapamil 투여가 고려되고 있다. 다음 중 가장 적절한 처방 방식은?
+72세 남성이 dabigatran etexilate 150 mg을 BID로 복용 중입니다. 심박수 조절을 위해 immediate‑release verapamil 투여를 계획하고 있습니다. 이 환자에서 dabigatran과 verapamil의 약물상호작용을 최소화하기 위한 가장 적절한 투여 스케줄은 무엇인가?
 
-A. Immediate-release verapamil을 dabigatran 투여 1시간 전에 투여한다
-B. Immediate-release verapamil을 dabigatran 투여 2시간 이후에 투여한다
-C. Verapamil 대신 ketoconazole을 시작한다
-D. Verapamil 대신 quinidine을 시작한다
-E. Verapamil을 동시에 복용(동일 시간에)하도록 권한다
+A. verapamil을 dabigatran 복용 1시간 전에 투여한다
+B. verapamil을 dabigatran 복용 2시간 이후에 투여한다
+C. verapamil을 dabigatran과 동시에 투여한다
+D. verapamil 대신 amiodarone을 시작한다
+E. verapamil 대신 quinidine 또는 ketoconazole을 투여한다
+
 Q5 (easy)
-68세 남자가 심방세동으로 항응고 치료가 필요해졌습니다. 다음 중 지목된 약물의 작용 기전이 정확한 것은?
+72세 남성 환자가 최근 하지 심부정맥혈전증으로 항응고 치료를 시작해야 합니다. 환력 및 검사상 특이사항은 없습니다. 다음 중 본 가이드라인 요약(제공된 문헌)에 근거했을 때 가장 적절한 기술은?
 
-A. 와파린 — 비타민 K 길항제 (VKA)
-B. 다비가트란 에텍실레이트 — direct factor Xa inhibitor
-C. 리바록사반 — direct factor Xa inhibitor
-D. 비타민 K — 직접 트롬빈 억제제
-E. PCC (prothrombin complex concentrate) — 항응고제
-Q6 (medium)
-68세 남성, 만성 심부전은 없고 와파린으로 항응고 치료 중이며 지난 6개월간 INR은 안정적으로 2.3~2.8 사이를 유지해 왔습니다. 환자가 급성 요로감염으로 외래에서 항생제 처방이 필요해졌고, 임상의를 통해 ciprofloxacin 처방이 고려되고 있습니다. 이 상황에서 가장 적절한 처방 결정은?
+A. dabigatran etexilate는 직접 트롬빈 억제제이다
+B. rivaroxaban은 비타민 K 길항제(VKA)이다
+C. VKA는 새로운 직접 인자 Xa 억제제이다
+D. 해당 리뷰는 구체적인 투약 용량 권고를 제공한다
+E. dabigatran과 rivaroxaban은 동일한 기전으로 작용한다
 
-A. 가능하면 ciprofloxacin을 피하고 비상호작용 항생제로 변경한다
-B. ciprofloxacin을 처방하되 INR 모니터링 빈도를 늘린다
-C. ciprofloxacin 시작 시 예방적으로 와파린 용량을 감량한다
-D. ciprofloxacin 복용 동안 와파린을 일시 중단한다
-E. 현재 계획대로 ciprofloxacin을 처방하고 아무런 추가 조치를 취하지 않는다
+Q6 (easy)
+68세 남성, 만성 심방세동으로 warfarin을 복용 중이며 최근 INR은 2.5로 안정적입니다. 환자는 상기도 감염으로 외래에서 항생제 처방이 필요합니다. 담당 의사는 erythromycin 처방을 고려하고 있습니다.
+
+[병력] 만성 심방세동, warfarin 유지요법
+
+[활력징후/검사] INR 2.5 (최근 안정적)
+
+가장 적절한 처방은?
+
+A. Erythromycin을 처방하고 3일 후 INR 확인
+B. Erythromycin 투여 전 warfarin 용량을 예방적으로 감량
+C. 가능하면 상호작용이 없는 다른 항생제로 대체 처방
+D. Erythromycin을 처방하고 INR 모니터링은 하지 않음
+E. warfarin을 중단하고 저분자헤파린으로 전환
+
 Q7 (medium)
-68세 남성, 만성 심방세동으로 warfarin을 복용 중이며 최근부터 발열(38.5°C)과 체중감소, 빈맥을 호소합니다. 복용 중인 약물: warfarin. 최근 유지되던 INR은 2.5였습니다. 이 환자에 대한 가장 적절한 약물 관리로 옳은 것은 무엇인가?
+68세 남성, 만성 심부전 없이 만성 질환으로 와파린 3 mg PO QD로 안정적으로 항응고 치료 중이었다. 환자는 매일 1갑의 흡연자였으나 최근 입원 후 금연을 하였다고 호소한다. 최근 INR은 목표범위 내로 안정적이었다. 다음 중 가장 적절한 처방 변경은 무엇인가?
 
-[병력] 만성 심방세동 [약물알레르기] 없음 [활력징후] 체온 38.5°C, 맥박 110회/분 [임상검사] 최근 INR 2.5
+A. 와파린 용량을 감소시키고 INR을 더 자주 모니터링한다.
+B. 와파린 용량을 증가시킨다.
+C. 현재 용량을 유지하고 추가 INR 모니터링은 하지 않는다.
+D. 현재 용량을 유지하되 4주 후 INR만 확인한다.
+E. 환자에게 녹색 채소 섭취를 늘리도록 권고한다.
 
-A. Warfarin 용량 증가
-B. Warfarin 용량 감소
-C. 기존 용량 유지 (변경 없음)
-D. Warfarin을 즉시 중단
-E. Direct oral anticoagulant로 전환 (DOAC)
 Q8 (medium)
-68세 남자가 6개월 전부터 와파린을 복용 중입니다. 최근 외래에서 INR이 치료범위(2.0–3.0)를 자주 벗어나며 출혈 위험과 혈전 위험 모두 우려됩니다. 환자는 지역 커뮤니티 개원의(usual care)에서 모니터링받고 있습니다. 다음 중 이 환자의 항응고치료 관리를 개선하는 데 가장 적절한 약물관리 개입은?
+68세 남성(심방세동)에게 warfarin을 투여 중이다. 지난 6개월간의 Time in Therapeutic Range(TTR)은 55%였고, 현재 항응고 관리는 환자의 개인 주치의(일반 진료, usual care)에서 이루어지고 있다. 출혈 병력은 없고 다른 약물 알러지 없음. 항응고 치료의 TTR 및 임상 결과를 개선할 가능성이 가장 높은 다음 중 어떤 조치가 적절한가?
 
-[병력] 고혈압 [약물알레르기] 없음 [활력징후] 안정적 [최근 검사] 여러 번의 INR 값이 치료범위를 벗어남 [현재 관리] 개인 개원의(community practice)에서 와파린 관리 중
+A. 현재처럼 개인 주치의(usual care)에서 계속 관리한다
+B. 항응고클리닉(AC) 또는 항응고관리서비스(AMS)로 전원한다
+C. 현 체계에 computerized monitoring 프로그램을 도입하여 관리한다
+D. INR 검사 간격을 더 길게 늘려 추적 빈도를 줄인다
+E. 항응고 치료를 중단한다
 
-A. 전문 항응고클리닉(anticoagulation clinic, AC) 또는 항응고관리서비스(AMS)로 전원 의뢰
-B. 현재 기관에 컴퓨터 보조 용량조정 프로그램을 도입하여 모니터링 계속
-C. 현재의 개인 개원의(usual care)에서 계속 관리하도록 유지
-D. 관리 방식을 변경하지 않고 INR 검사 간격만 더 자주 시행
-E. 와파린을 중단하고 항응고치료를 중단
 Q9 (medium)
-72세 남성이 만성 항응고요법(와파린)을 복용 중이다. 외래에서 지난 3개월간 INR 검사값이 목표범위(2.0–3.0)를 자주 벗어나며, 현행 수기 용량조절(의료진의 임상판단)에 의해 자주 용량이 변경되고 있다. 치료의 시간비중(TTR)을 개선하고자 할 때 가장 적절한 다음 중 조치는?
+62세 여성 환자가 warfarin을 복용 중이며 INR 변동이 커서 항응고 관리 개선을 원한다. 클리닉에서 TTR(therapeutic time in range)을 개선하고 용량조절의 효율성을 높이려 할 때 가장 적절한 조치는?
 
-A. 전산화된(컴퓨터) 용량조정 프로그램을 도입하여 컴퓨터 기반으로 용량을 결정한다
-B. 환자 대상 추가 교육을 시행하고 현재의 수기 용량조절을 유지한다
-C. INR 검사 빈도를 대폭 늘리고 수동으로 용량을 더 자주 변경한다
-D. 환자를 항응고관리서비스(anticoagulation clinic)의 경험 있는 의료진에게 의뢰한다
-E. INR이 목표범위 상한에 도달하면 즉시 와파린 용량을 줄인다
+A. 전산화된 용량 산출(컴퓨터 보조) 프로그램을 도입한다
+B. 숙련된 의료진에 의한 기존의 수동 용량 조절을 유지한다
+C. INR이 치료 범위 상한에 가까우면 즉시 warfarin 용량을 감량한다
+D. 모든 환자에 대해 INR 검사 간격을 하루마다 테스트한다
+E. 전자 약통 개방 기록만 환자에게 제공하여 복약 순응도만 모니터링한다
+
 Q10 (medium)
-68세 남성이 만성 warfarin 치료를 받고 있습니다. 최근 INR 검사 값들이 목표 범위(2.0–3.0)의 상한 근처에 자주 위치하고, 잦은 용량 변경으로 환자 관리가 불안정합니다. 다음 중 이 환자의 항응고제 용량 관리를 개선하여 TTR을 높이고 용량 변경 횟수를 줄이는 데 가장 적절한 전략은 무엇인가?
+항응고 클리닉에서 warfarin을 복용하는 장기 외래 환자(약 300명)를 대상으로 컴퓨터 기반 용량조절 프로그램 도입을 검토하고 있다. 임상 지침의 근거에 따르면 이 프로그램 도입 시 가장 기대되는 결과는 무엇인가?
 
-[병력] 만성 warfarin 복용 [최근 문제] INR 값들이 목표 범위의 상한에 자주 위치, 잦은 용량 변경 [약물알레르기] 없음
+A. INR을 목표 범위에 유지하는 비율은 유사하지만 용량 변경 횟수가 약 50% 감소한다
+B. 전반적인 시간-치료-범위(TTR)가 현저히 감소한다
+C. 효과는 오직 목표 INR 2.0–3.0 범위에서만 관찰된다
+D. INR이 목표 상한에 도달하면 약물을 더 자주 감량하는 경향이 증가한다
+E. 장기적으로 INR 검사 빈도가 증가한다
 
-A. 숙련된 의료진이 수동으로 현재 방식대로 계속 용량 조절한다
-B. 전용 컴퓨터화된 용량 조절 프로그램을 도입하여 관리한다
-C. INR이 목표 범위 상한에 있으면 즉시 warfarin 용량을 감소시킨다
-D. 모든 환자에 대해 INR 검사 간격을 획일적으로 단축한다
-E. 환자를 전문 항응고제 클리닉(AC)에 전원하여 수동 관리하도록 한다
 Q1
 정답 해설
 
-Answer: B. 신기능(크레아티닌 청소율) 28 mL/min이므로 dabigatran etexilate를 사용하지 않음(투여 금지)
+Answer: B. 신기능이 심하게 저하되어 있으므로 dabigatran etexilate 투여를 피한다.
 
-Rationale: 지침은 중증 신부전 환자에서 dabigatran etexilate 사용을 피해야 한다고 명시한다. 또한 신기능 저하 시 약물 노출(AUC)이 경증·중등·중증에서 각각 크게 증가함이 보고되어(예: 1.5, 3.2, 6.3배) 중증 신부전에서는 투여를 피하는 것이 적절하다.
+Rationale: 지침은 중증 신기능저하 환자에서 dabigatran의 혈중 노출이 크게 증가함을 보고하고 있으며, 중증 신부전 환자에서는 dabigatran 투여를 피해야 한다고 권고합니다. AUC가 1.5, 3.2, 그리고 6.3 배 증가하는 것으로 보고되었고 신기능이 매우 저하된 환자에서 항응고 검사값이 상당히 증가하므로(출혈 위험 증가 소지) 투여를 피하는 것이 적절합니다. 다른 선택지는 지침 근거와 모순됩니다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.21 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p21|c5 | avoid dabigatran etexilate in patients with severe renal failure
 Oral_Anticoagulant_Therapy.pdf p.20 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p20|c4 | 1.5, 3.2, and 6.3 times higher
+Oral_Anticoagulant_Therapy.pdf p.21 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p21|c5 | This emphasizes the need to avoid dabigatran etexilate in patients with severe renal failure and the importance of renal function
+
 Q2
 정답 해설
 
-Answer: B. 모니터링 빈도를 증가시키고 INR 결과에 따라 warfarin 용량을 조정한다
+Answer: A. 가능하면 ginseng 복용을 피하고 상호작용이 없는 대체제를 사용하도록 권유한다.
 
-Rationale: 지침은 cholestyramine이 warfarin 효과를 감소시킬 수 있음을 보고하고, 비상호작용 대체제가 없을 때는 모니터링 빈도를 높이고 INR 결과에 따라 warfarin 용량을 조정할 것을 권장합니다. 지침은 선제적(예측적) 용량 조정은 부적절하다고 명시합니다.
+Rationale: 지침은 가능한 한 상호작용 약물의 동시 사용을 피하고 상호작용이 없는 대체제를 사용할 것을 권장합니다. 상호작용 대체제가 불가능할 경우에는 INR 빈도를 늘리고 INR 반응에 따라 warfarin 용량을 조정해야 하며, 예측적(사전적) 용량 조정은 부적절하다고 명시되어 있습니다. 따라서 가능한 경우 ginseng 복용을 피하고 비상호작용 대체제를 권하는 것이 가장 적절합니다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.4 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p4|c6 | cholestyramine can reduce the anti- coagulant effect of warfarin by reducing its absorption
-Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | increasing the frequency of monitoring and adjusting warfarin doses based on INR response
+Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | avoid, when feasible, concurrent use of potentially interacting drugs and to use noninteracting alterna- tives instead.
+Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | increasing the frequency of monitoring and adjusting warfarin doses based on INR response.
+Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | Prospective dosing adjustments are inappropriate
+
 Q3
 정답 해설
 
-Answer: B. 활성탄(activated charcoal) 투여 후 rivaroxaban 중단, 필요 시 혈액제제 투여
+Answer: A. 초기 3주간 15 mg을 하루 2회 투여 후 이후 20 mg을 하루 1회 투여
 
-Rationale: 지침에서는 rivaroxaban에 대해 특정 해독제가 현재 없다고 밝히며, 과다복용 시 흡수를 줄이기 위해 활성탄 사용을 제안하고 있다. 또한 투석으로 제거되기 어려운 약물이라고 기술되어 있어 혈액투석은 효과적이지 않을 것으로 보이며, 출혈이 있는 경우 약물 중단 및 필요 시 혈액제제 투여를 고려하는 전략이 권고된다.
+Rationale: 지침에 따르면 hemodynamically stable PE 환자에서는 처음 3주간 15 mg을 BID로 투여한 뒤 20 mg을 QD로 유지한다. 따라서 A가 가장 적절하다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.32 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p32|c3 | the use of activated charcoal to reduce absorp- tion is suggested
-Oral_Anticoagulant_Therapy.pdf p.32 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p32|c3 | rivaroxaban is unlikely to be dialyz- able
+Oral_Anticoagulant_Therapy.pdf p.31 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p31|c1 | 15 mg bid dose of rivaroxaban followed by a 20 mg once-daily dose
+Oral_Anticoagulant_Therapy.pdf p.32 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p32|c3 | There is currently no speciﬁ c antidote available
+
 Q4
 정답 해설
 
-Answer: B. Immediate-release verapamil을 dabigatran 투여 2시간 이후에 투여한다
+Answer: B. verapamil을 dabigatran 복용 2시간 이후에 투여한다
 
-Rationale: 문헌에 따르면 verapamil과의 상호작용은 복용 스케줄에 따라 달라지며, verapamil을 dabigatran 복용 2시간 이후에 투여하면 상호작용이 거의 무시될 정도로 작아진다. 따라서 가장 적절한 처방은 verapamil을 dabigatran 투여 2시간 이후에 투여하는 것이다. 강한 P-gp 억제제인 quinidine과 ketoconazole은 dabigatran과 함께 복용 시 금기 또는 주의가 필요하므로 이들을 선택하는 것은 적절하지 않다.
+Rationale: 임상시험에서 immediate‑release verapamil을 dabigatran 복용 .1시간 전에 투여하면 dabigatran의 Cmax와 AUC가 크게 증가하지만, verapamil을 dabigatran 복용 2시간 이후에 투여하면 상호작용이 거의 무시되었다. 또한 quinidine과 ketoconazole은 dabigatran과 함께 투여할 수 없도록 금기되어 있다. 따라서 verapamil은 dabigatran 복용 2시간 이후에 투여하는 것이 가장 적절하다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.22 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p22|c5 | interaction became negligible (increases of 10% in Cmax and 20% for AUC) if verapamil was taken . 2 h after dabigatran etexilate
-Oral_Anticoagulant_Therapy.pdf p.22 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p22|c4 | P-gp inhibitors include amiodarone, verapamil, ketoconazole, quinidine, and clarithromycin
+Oral_Anticoagulant_Therapy.pdf p.22 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p22|c5 | increased the Cmax and AUC of dabigatran by about 180% and 150%
+Oral_Anticoagulant_Therapy.pdf p.22 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p22|c5 | if verapamil was taken . 2 h after dabigatran etexilate
+Oral_Anticoagulant_Therapy.pdf p.22 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p22|c5 | quinidine and ketoconazole are contraindicated when taking dabigatran etexilate
+
 Q5
 정답 해설
 
-Answer: C. 리바록사반 — direct factor Xa inhibitor
+Answer: A. dabigatran etexilate는 직접 트롬빈 억제제이다
 
-Rationale: 지침에서는 리바록사반을 the direct factor Xa inhibitor로 명시하고 있으며, 다비가트란은 직접 트롬빈 억제제로 구분합니다.
+Rationale: 문헌 요약은 dabigatran etexilate를 직접 트롬빈 억제제로, rivaroxaban을 직접 인자 Xa 억제제로 구분하고 있다. 또한 해당 리뷰는 구체적 권고를 제공하지 않는다고 기술되어 있다. 따라서 A가 단일 정답이다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.1 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p1|c1 | the direct factor Xa inhibitor rivaroxaban
 Oral_Anticoagulant_Therapy.pdf p.1 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p1|c1 | the direct thrombin inhibitor dabigatran etexilate
+Oral_Anticoagulant_Therapy.pdf p.1 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p1|c2 | discussed without providing
+
 Q6
 정답 해설
 
-Answer: A. 가능하면 ciprofloxacin을 피하고 비상호작용 항생제로 변경한다
+Answer: C. 가능하면 상호작용이 없는 다른 항생제로 대체 처방
 
-Rationale: 지침은 상호작용 가능한 약물의 동시 사용을 가능하면 피하고 비상호작용 대체약 사용을 권장한다. ciprofloxacin은 와파린과 상호작용 가능성이 보고된 약물이다. 만약 대체약을 사용할 수 없을 때는 모니터링을 늘리고 INR 반응에 따라 와파린 용량을 조정하라고 권고한다.
+Rationale: 지침은 상호작용 약물의 동시 사용을 가능하면 피하고 비상호작용 대체 약물을 사용할 것을 권고합니다. 만약 대체 불가능하면 INR을 더 자주 모니터링하고 INR 반응에 따라 warfarin 용량을 조정하라고 권합니다; 예방적 용량 조정은 부적절하다고 명시되어 있습니다. 또한 erythromycin은 warfarin과의 상호작용 목록에 포함되어 있습니다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | avoid, when feasible, concurrent use of potentially interacting drugs
-Oral_Anticoagulant_Therapy.pdf p.5 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p5|c1 | Ciproﬂ oxacin
+Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | avoid, when feasible, concurrent use of potentially interacting drugs and to use noninteracting alterna- tives instead
+Oral_Anticoagulant_Therapy.pdf p.6 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p6|c3 | increase the frequency of monitoring and adjusting warfarin doses based on INR response
+Oral_Anticoagulant_Therapy.pdf p.5 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p5|c1 | Erythromycin
+
 Q7
 정답 해설
 
-Answer: B. Warfarin 용량 감소
+Answer: A. 와파린 용량을 감소시키고 INR을 더 자주 모니터링한다.
 
-Rationale: 발열이나 갑상선기능항진과 같은 과대사 상태는 warfarin에 대한 반응성을 증가시킨다. 따라서 항응고 효과가 강해질 것을 예상하여 용량을 감소시키고 INR을 더 자주 모니터링하는 것이 적절하다.
+Rationale: 지침은 흡연 중단 후 warfarin 요구 용량이 감소하는 것이 관찰되었다고 보고하므로 용량 감소를 고려하고 INR을 더 자주 확인해야 한다. 또한 약물·생활습관 변화 시 INR 모니터링 빈도를 높이는 것이 권고된다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.7 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p7|c1 | Hypermetabolic states produced by fever or hyperthyroidism increase warfarin responsiveness
-Oral_Anticoagulant_Therapy.pdf p.7 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p7|c5 | Patients should be informed of possible changes in INR
+Oral_Anticoagulant_Therapy.pdf p.7 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p7|c1 | warfarin dosing requirements have been observed to decline after smoking cessation
+Oral_Anticoagulant_Therapy.pdf p.7 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p7|c5 | More frequent monitoring of the INR should be proposed if dietary habits have substantially changed in response to weight reduction diets
+
 Q8
 정답 해설
 
-Answer: A. 전문 항응고클리닉(anticoagulation clinic, AC) 또는 항응고관리서비스(AMS)로 전원 의뢰
+Answer: B. 항응고클리닉(AC) 또는 항응고관리서비스(AMS)로 전원한다
 
-Rationale: 비무작위·회고적 연구들은 항응고치료가 AMS 또는 AC에서 관리될 때 더 좋은 결과를 보고했으며, 집단별 TTR은 community practices(약 56.7%)보다 AC(약 65.6%)에서 더 높았습니다. 따라서 불안정한 INR을 보이는 환자는 AC/AMS로 전원하여 전문적으로 관리받는 것이 가장 적절합니다.
+Rationale: 비무작위·후향 연구에서 항응고 치료를 AMS 또는 AC에서 관리할 때 더 나은 결과가 보고되었고, TTR은 지역사회 진료보다 AC에서 더 높았다. 따라서 환자를 항응고클리닉 또는 항응고관리서비스로 전원하는 것이 TTR 및 임상 결과 개선에 가장 적합하다.
 
 Evidence: Citations (short quotes):
 
-Oral_Anticoagulant_Therapy.pdf p.12 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p12|c2 | better outcomes in patients when anticoagulant therapy is managed by an AMS or an AC
-Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c4 | 65.6% in ACs and 66.4% for randomized trials
+Oral_Anticoagulant_Therapy.pdf p.12 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p12|c2 | reported better outcomes in patients when anticoagulant therapy is managed by an AMS or an AC
+Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c4 | TTR (days) varied from 56.7% in community prac- tices to 65.6% in ACs
+
 Q9
 정답 해설
 
-Answer: A. 전산화된(컴퓨터) 용량조정 프로그램을 도입하여 컴퓨터 기반으로 용량을 결정한다
+Answer: A. 전산화된 용량 산출(컴퓨터 보조) 프로그램을 도입한다
 
-Rationale: 지침에서 Computerized Monitoring에 대해 전산화된 프로그램이 dose management와 TTR를 개선할 수 있음을 명시하고 있으며, 연구에서 전산 프로그램이 수기조절과 비교해 더 나은 INR 조절을 보이거나 동등한 목표 달성률을 보이면서도 용량변경이 적었다고 보고되었다. 따라서 전산화된 용량조정 프로그램 도입이 가장 적절하다.
-
-Evidence: Citations (short quotes):
-
-Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c5 | may improve dose management and TTR.
-Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c1 | required 50% fewer changes of dose.
-Q10
-정답 해설
-
-Answer: B. 전용 컴퓨터화된 용량 조절 프로그램을 도입하여 관리한다
-
-Rationale: 지침은 전용 컴퓨터 프로그램이 용량 관리와 TTR을 개선할 수 있음을 보고하며, 연구에서 컴퓨터가 용량 변경을 50% 덜 필요로 했다고 밝힘. 따라서 컴퓨터화된 용량 프로그램 도입이 가장 적절하다.
+Rationale: 지침은 전산화된 용량 산출 프로그램이 용량관리와 TTR을 개선할 수 있다고 명시하며, 무작위시험에서 프로그램이 숙련된 의료진보다 22% 향상된 통제율을 보였다고 보고하였다. 따라서 전산화 dosing 프로그램 도입이 가장 적절하다.
 
 Evidence: Citations (short quotes):
 
 Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c5 | Computer assistance by the use of dedicated programs may improve dose management and TTR
-Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c1 | required 50% fewer changes of dose
+Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c1 | showed a 22% overall improvement of control with the program compared with the performance of experienced medical staff
+
+Q10
+정답 해설
+
+Answer: A. INR을 목표 범위에 유지하는 비율은 유사하지만 용량 변경 횟수가 약 50% 감소한다
+
+Rationale: 지침은 컴퓨터 프로그램이 INR을 목표 범위에 유지하는 비율에서는 수동 조절과 비교해 유사하거나 더 좋았지만, 용량 변경 횟수를 줄였음을 보고했다. 또한 컴퓨터 보조는 dose management와 TTR을 개선할 수 있다고 기술한다.
+
+Evidence: Citations (short quotes):
+
+Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c1 | required 50% fewer changes of dose.
+Oral_Anticoagulant_Therapy.pdf p.13 | 5e1326fa1b08|Oral_Anticoagulant_Therapy.pdf|p13|c5 | may improve dose management and TTR.

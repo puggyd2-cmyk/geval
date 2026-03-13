@@ -1,93 +1,104 @@
-라벨 기반 약물 자기평가 문제집 (NSAID 및 진통제 중심)
+라벨 기반 약물 지식 자기평가
 Track: label_anchored
-Candidate drugs: indomethacin, ibuprofen, celecoxib, acetaminophen, aspirin (nsaid), and caffeine, acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
-Q1 (drug_match, medium)
-다음 중 2세 이상 소아의 juvenile rheumatoid arthritis(JRA) 적응증이 라벨에 명시된 약물은?
+Candidate drugs: acetaminophen, aspirin (nsaid), and caffeine, acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride, celecoxib, indomethacin, ibuprofen
 
-A. indomethacin
-B. ibuprofen
+Q1 (drug_match, medium)
+다음 중 sulfonamide(설포나마이드) 계열에 대한 알레르기 반응을 보인 환자에서 금기라고 명시된 약물은?
+
+A. acetaminophen, aspirin (nsaid), and caffeine
+B. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
 C. celecoxib
-D. acetaminophen, aspirin (nsaid), and caffeine
-E. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
-Q2 (dose, easy)
-라벨에 따른 equate ibuprofen childrens 제품에서 체중 36–47 lb, 4–5세 소아의 권장 용량(mL)은?
+D. indomethacin
+E. ibuprofen
+
+Q2 (drug_match, medium)
+다음 중 라벨에서 triamterene(칼륨보존 이뇨제)과 함께 투여해서는 안된다고 명확히 명시된 약물은?
+
+A. acetaminophen, aspirin (nsaid), and caffeine
+B. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
+C. celecoxib
+D. indomethacin
+E. ibuprofen
+
+Q3 (drug_match, easy)
+어떤 제품 라벨이 성인 및 12세 이상 소아에게 20 mL를 4시간마다 복용하라고 명시하는가?
+
+A. acetaminophen, aspirin (nsaid), and caffeine
+B. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
+C. celecoxib
+D. indomethacin
+E. ibuprofen
+
+Q4 (dose, easy)
+체중이 50 lb(약 22.7 kg)인 소아(대략 6–8세)에게 라벨 권장하는 equate ibuprofen childrens의 1회 복용량은 몇 mL인가?
 
 A. 5 mL
 B. 7.5 mL
 C. 10 mL
 D. 12.5 mL
 E. 15 mL
-Q3 (dose, medium)
-Indomethacin extended-release 캡슐의 중등도에서 중증 류마티스 관절염(급성 악화 포함)에 권장되는 투여량은?
 
-A. Indomethacin immediate-release 25 mg twice daily
-B. One indomethacin extended-release 75 mg capsule daily
-C. Total daily dose 150–200 mg 초과
-D. 75 to 150 mg daily in divided doses
-E. 25 mg three times a day (immediate-release)
-Q4 (interaction, medium)
-다음 중 라벨에서 triamterene를 indomethacin 유지요법에 추가했을 때 가역적 급성 신부전을 보고하였고 함께 투여해서는 안된다고 명시한 약물은?
+Q5 (drug_match, medium)
+어떤 약물 라벨은 CYP2C9의 poor metabolizer로 알려졌거나 의심되는 성인 환자에게 치료를 시작할 때 가장 낮은 권장 용량의 절반으로 시작하라고 명시하는가?
 
-A. indomethacin
-B. ibuprofen
+A. acetaminophen, aspirin (nsaid), and caffeine
+B. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
 C. celecoxib
-D. acetaminophen, aspirin (nsaid), and caffeine
-E. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
-Q5 (contraindication, easy)
-다음 중 라벨에서 설포나마이드(sulfonamides)에 대한 알레르기성 반응을 보인 환자에서 금기사항으로 명시된 약물은?
+D. indomethacin
+E. ibuprofen
 
-A. indomethacin
-B. ibuprofen
-C. celecoxib
-D. acetaminophen, aspirin (nsaid), and caffeine
-E. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
 Q1
 정답 해설
 
 Answer: C. celecoxib
 
-Rationale: Celecoxib 라벨에 JRA에 대해 2세 이상에서의 적응증이 명확히 기재되어 있음.
+Rationale: Celecoxib의 금기사항에 설포나마이드에 대한 알레르기형 반응을 보인 환자에서 금기라고 명시되어 있음.
 
 Evidence:
 
-celecoxib | indications_and_usage | 20260219 | For the management of the signs and symptoms of JRA in patients 2 years and older
+celecoxib | contraindications | 20260219 | Celecoxib is contraindicated in the following patients: Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to celecoxib, any components of the drug product
+celecoxib | contraindications | 20260219 | In patients who have demonstrated allergic-type reactions to sulfonamides [see Warnings and Precautions (5.7) ] .
+
 Q2
 정답 해설
 
-Answer: B. 7.5 mL
+Answer: D. indomethacin
 
-Rationale: 라벨의 도징 차트에서 36–47 lbs, 4–5 years 항목에 7.5 mL로 표기되어 있음.
+Rationale: Indomethacin 라벨은 triamterene과의 병용금지를 명확히 기술하고 있음.
 
 Evidence:
 
-ibuprofen | dosage_and_administration | 20260223 | 36-47 lbs 4-5 years 7.5 mL 48-59 lbs 6-8 years 10 mL
+indomethacin | drug_interactions | 20260206 | when these agents are administered concurrently. Indomethacin and triamterene should not be administered together.
+
 Q3
 정답 해설
 
-Answer: B. One indomethacin extended-release 75 mg capsule daily
+Answer: B. acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride
 
-Rationale: 라벨에 중등도~중증 류마티스 관절염에는 indomethacin extended-release 75 mg 캡슐을 하루 1회 투여하도록 명시되어 있음.
+Rationale: acetaminophen + dextromethorphan + triprolidine 제형의 복용지침에 성인 및 12세 이상 20 mL를 4시간마다 복용하라고 명시되어 있음.
 
 Evidence:
 
-indomethacin | dosage_and_administration | 20260206 | The dosage for moderate to severe rheumatoid arthritis including acute flares of chronic disease is one indomethacin extended-release 75 mg capsule daily
+acetaminophen, dextromethorphan hydrobromide, and triprolidine hydrochloride | dosage_and_administration | 20260223 | adults and children 12 years of age and over: 20 mL in dosing cup provided every 4 hours
+
 Q4
 정답 해설
 
-Answer: A. indomethacin
+Answer: C. 10 mL
 
-Rationale: Indomethacin 라벨에 triamterene 추가가 가역적 급성 신부전을 초래한 사례를 보고하고 병용 금지를 명시함.
+Rationale: 라벨의 투여차트에서 48–59 lb(6–8세)의 권장 용량은 10 mL로 표기됨.
 
 Evidence:
 
-indomethacin | drug_interactions | 20260206 | the addition of triamterene to a maintenance schedule of indomethacin resulted in reversible acute renal failure in two of four healthy volunteers
+ibuprofen | dosage_and_administration | 20260223 | Dosing Chart Weight (lb) Age (yr) Dose (mL)** 48-59 lbs 6-8 years 10 mL
+
 Q5
 정답 해설
 
 Answer: C. celecoxib
 
-Rationale: Celecoxib 라벨의 금기 항목에 설포나마이드에 대한 알레르기성 반응을 보인 환자를 명시적으로 포함하고 있음.
+Rationale: Celecoxib 라벨은 CYP2C9 poor metabolizer인 성인에서 시작 용량을 절반으로 시작하라고 구체적으로 지시하고 있음.
 
 Evidence:
 
-celecoxib | contraindications | 20260219 | In the setting of CABG surgery [see Warnings and Precautions (5.1) ] . In patients who have demonstrated allergic-type reactions to sulfonamides
+celecoxib | dosage_and_administration | 20260219 | substrates (such as warfarin, phenytoin), initiate treatment with half of the lowest recommended dose.
